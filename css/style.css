@@ -1,4 +1,17 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
-*/
+/*STYLE.CSS FILE FOR INDEX.PHP*/
+/*CREATED BY : GUSTAV I.*/
+
+h1 {
+  text-align : center;
+  background : mediumpurple;
+  color : #ffff;
+  padding : 20px
+}
+
+button {
+  background : rgb(147,112,219);
+  color : #ffff;
+  font-size : 15px;
+  padding : 10px;
+  margin-top : 20px;
+}
